@@ -6,11 +6,11 @@ namespace B10956003_0321
 {
     class Car
     {   
-        //封裝
-        string color = "rrr";
+
+        string color = "red";
         int cc = 15000;
         string brand = "BMW";
-        //到此
+        
         public void StartEngin()
         {
             Console.WriteLine("發動引擎");
