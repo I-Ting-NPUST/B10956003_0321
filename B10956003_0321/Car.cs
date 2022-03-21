@@ -7,7 +7,7 @@ namespace B10956003_0321
     class Car
     {   
         //封裝
-        string color = "red";
+        string color = "rrr";
         int cc = 15000;
         string brand = "BMW";
         //到此
